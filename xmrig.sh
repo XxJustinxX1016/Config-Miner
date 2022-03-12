@@ -73,7 +73,7 @@ print_brake 70
 echo
 
 Xmrig() {
-bash <(curl https://raw.githubusercontent.com/XxJustinxX1016/Config-Miner/main/xmrig.sh)
+bash <(curl https://raw.githubusercontent.com/XxJustinxX1016/Config-Miner/main/config.sh)
 }
 
 
