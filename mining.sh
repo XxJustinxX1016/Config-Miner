@@ -74,4 +74,3 @@ echo
 echo "screen -S mining ./xmrig for run the mining"
 print_brake 70
 echo
-echo
